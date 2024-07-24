@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>ProdEvnironment</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'03130505945'</initValue>
+      <name>MISDIN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'0239074101111510'</initValue>
+      <name>IBFT_UBL_ACCOUNT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1122'</initValue>
+      <name>MPIN</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
